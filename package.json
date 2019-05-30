@@ -1,0 +1,24 @@
+{
+  "name": "renamefile",
+  "version": "1.0.0",
+  "description": "Rename all files in a folder",
+  "main": "start.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven-Debande/RenameFiles.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "utility"
+  ],
+  "author": "Steven Debande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Steven-Debande/RenameFiles/issues"
+  },
+  "homepage": "https://github.com/Steven-Debande/RenameFiles#readme"
+}
