@@ -19,3 +19,9 @@ You can of course cumulate the options.
 **Rendering: Wallpaper HD_1.jpg**
 <br>
 <h1>**You can do whatever you want code**<h1>
+  
+## Supported Versions NodeJS
+
+| Version | Supported          |
+| ------- | ------------------ |
+| All  | :white_check_mark: |
