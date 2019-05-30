@@ -2,7 +2,7 @@ const folderDir = "./drop the files/";
 
 const { readdirSync, renameSync } = require("fs");
 const NAME = process.argv.slice(2)[0].replace(/:/g, " ");
-const IGNORE = process.argv.slice(3).join(" ").split(":");
+const IGNORE = process.argv.slice(3).join("").split(":");
 
 let COUNT_FILES = 0;
 const folder = readdirSync(folderDir);
