@@ -12,7 +12,7 @@ folder.forEach((item) => {
     const extendFile = item.split(".")[0];
 
     if (!IGNORE.includes(extendFile)) {
-        COUNT_FILES++
+        COUNT_FILES++;
         const newName = `${NAME}_${COUNT_FILES}`;
         renameSync(folderDir+item, folderDir+item.replace(oldName, newName));
     }
