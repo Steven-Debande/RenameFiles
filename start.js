@@ -9,7 +9,7 @@ const folder = readdirSync(folderDir);
 
 folder.forEach((item) => {
     const oldName = item.split(".")[0];
-    const extendFile = item.split(".")[0];
+    const extendFile = item.split(".")[1];
 
     if (!IGNORE.includes(extendFile)) {
         COUNT_FILES++;
