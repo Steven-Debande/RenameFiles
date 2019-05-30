@@ -24,4 +24,5 @@ You can of course cumulate the options.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| All  | :white_check_mark: |
+| < 8.x.x | :x:                |
+| > 8.x.x | :white_check_mark: |
