@@ -13,5 +13,9 @@ If you want to add a space in the new name you have to do this: **node start.js 
 You can also ignore some extension, You will have to do like this: **node start.js wallaper png:jpeg:gif** Files with it's extentions will not touch
 
 You can of course cumulate the options.
+<br>
 **Example: node start.js Wallpaper:HD jpeg:png:gif**
+<br>
 **Rendering: Wallpaper HD_1.jpg**
+<br>
+<h1>**You can do whatever you want code**<h1>
