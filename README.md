@@ -1,4 +1,5 @@
 # RenameFiles
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b085ae767c84b55b71213e3bb747962)](https://www.codacy.com/app/Steven-Debande/RenameFiles?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Steven-Debande/RenameFiles&amp;utm_campaign=Badge_Grade)
 
 Rename all files in a folder.
 
