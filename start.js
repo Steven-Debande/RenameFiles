@@ -17,5 +17,3 @@ folder.forEach((item) => {
         renameSync(folderDir+item, folderDir+item.replace(oldName, newName));
     }
 });
-
-console.log(`${COUNT_FILES} rename`);
